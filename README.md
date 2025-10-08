@@ -1,0 +1,1 @@
+# auto_accept_cs2_script
