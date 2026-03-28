@@ -20,12 +20,12 @@ PyAutoGUI (or input automation library you used)
 
 📦 Installation
 
-git clone https://github.com/yourusername/cs2-auto-accept.git
+`git clone https://github.com/yourusername/cs2-auto-accept.git
 cd cs2-auto-accept
 pip install -r requirements.txt
 
 ▶️ Usage
-Launch CS2
+Launch Csgo
 Run the script:
 python main.py
 Queue for a match
@@ -48,3 +48,4 @@ Multi-resolution support
 
 Khang Truong
 Cyber Security Student @ Deakin University
+// This might not work in CS2
