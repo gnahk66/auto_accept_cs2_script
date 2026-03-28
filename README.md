@@ -4,18 +4,26 @@ A lightweight automation tool that automatically detects and accepts matchmaking
 
 🚀 Features
 ✅ Automatically detects match acceptance prompt
+
 ✅ Instant auto-accept (no delay)
+
 ✅ Lightweight and low resource usage
+
 ✅ Runs in the background
+
 ✅ Simple setup and execution
+
 🛠️ Tech Stack
 Python
 OpenCV (image detection) / or screen detection method (edit based on what you used)
 PyAutoGUI (or input automation library you used)
+
 📦 Installation
+
 git clone https://github.com/yourusername/cs2-auto-accept.git
 cd cs2-auto-accept
 pip install -r requirements.txt
+
 ▶️ Usage
 Launch CS2
 Run the script:
